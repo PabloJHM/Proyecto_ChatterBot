@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto_ChatterBot</string>
+    <string name="registro">Habla con el bot usando el boton! Aquí se mostrará el registro de chat</string>
+    <string name="sinstt">Este dispositivo no soporta STT</string>
+</resources>
